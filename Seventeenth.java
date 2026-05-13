@@ -9,7 +9,7 @@ class Seventeenth{
     public static void main(String[] args)
         Scanner sc=new Scanner(System.in);
         String name = sc.next();
-        int a=sc.nextInt(),b=sc.nextInt(),c=sc.nextInt();
+        int  a=sc.nextInt(),b=sc.nextInt(),c=sc.nextInt();
         int total=a+b+c;
         double avg=total/3;
         sc.close();

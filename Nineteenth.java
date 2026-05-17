@@ -11,7 +11,7 @@ public class Nineteenth {
     }
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
-        long a = sc.nextInt();
+        long a = sc.nextInt(); 
         sc.close();
         System.out.println(isPrime(a) ? "Prime": "Not prime");
     }

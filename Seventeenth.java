@@ -20,4 +20,4 @@ class Seventeenth{
         else grade = 'F';
         display(total,avg,grade);
     }
-}
+} 

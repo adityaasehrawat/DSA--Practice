@@ -14,5 +14,5 @@ public class Nineteenth {
         long a = sc.nextInt(); 
         sc.close();
         System.out.println(isPrime(a) ? "Prime": "Not prime");
-    }
+    } 
 }

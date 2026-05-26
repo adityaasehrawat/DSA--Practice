@@ -7,4 +7,4 @@ public class Eighteenth{
         System.out.println(Math.pow(base,exponent));
         sc.close();
     }
-}
+} 

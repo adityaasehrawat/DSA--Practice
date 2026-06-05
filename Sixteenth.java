@@ -10,7 +10,7 @@ class Sixteenth {
     }
 
     void withdraw(double amt) {
-        if(amt <= balance){
+        if(amt <= balance){ 
             balance -= amt;
             System.out.println("Balance after withdrawal: " + balance);
         }

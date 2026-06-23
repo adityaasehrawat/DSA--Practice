@@ -29,5 +29,5 @@ class Sixteenth {
         System.out.print("Enter amount to withdraw: ");
         b.withdraw(sc.nextDouble());
         sc.close();
-    }
+    } 
 }

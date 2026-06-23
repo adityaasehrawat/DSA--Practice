@@ -7,5 +7,5 @@ class Fifteenth {
         System.out.println(n % 2 == 0 ? "Even" : "Odd");
         sc.close();
     }
-} 
+}  
  

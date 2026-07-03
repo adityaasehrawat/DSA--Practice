@@ -6,7 +6,7 @@ class Sixteenth {
 
     void deposit(double amt) {
         balance += amt;
-        System.out.println("Balance after deposit: " + balance); 
+        System.out.println("Balan ce after deposit: " + balance); 
     }
 
     void withdraw(double amt) {

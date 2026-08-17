@@ -4,7 +4,7 @@ class Seventeenth{
     static public void display(int total,double avg,char grade){
         System.out.println("Total: "+total); 
         System.out.println ("Average: "+avg); 
-        System.out.println("Grade: "+grade);
+        System.out.println("Grade: "+grade); 
     } 
     public static voi d main(String []  args)
         Scanner sc=new Scanner(System.in); 
